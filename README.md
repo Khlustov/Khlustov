@@ -3,8 +3,6 @@
 <h1 align='center'>Hello there🖖</h1>
 <h4 align='center'>My name is Alexander and i'm a Front End Developer</h4>
 
-<p align='center'><img src="/images/programmer.gif" /></p>
-
 <h4>Here you can learn more about me</h4>
 <details>
   <summary>Hard skills</summary>
@@ -68,4 +66,5 @@
 </p>
 </details>
 
-[![Spotify](https://novatorem-khlustov.vercel.app/api/spotify)](https://open.spotify.com/user/82283cfaff2d4ed8b27efa81d7a4b2d1)
+<p align='center'>[![Spotify](https://novatorem-khlustov.vercel.app/api/spotify)](https://open.spotify.com/user/82283cfaff2d4ed8b27efa81d7a4b2d1)</p>
+<p align='center'><img src="/images/programmer.gif" /></p>
