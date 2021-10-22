@@ -66,6 +66,6 @@
 </p>
 </details>
 
-###🎼🎧💻 Now Playing
+<h3>🎼🎧💻 Now Playing</h3>
 [![Spotify](https://novatorem-khlustov.vercel.app/api/spotify)](https://open.spotify.com/user/82283cfaff2d4ed8b27efa81d7a4b2d1)
 <p align='center'><img src="/images/programmer.gif" /></p>
