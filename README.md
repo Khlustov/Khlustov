@@ -68,3 +68,4 @@
 </p>
 </details>
 
+[![Spotify](https://novatorem-khlustov.vercel.app/api/spotify)](https://open.spotify.com/user/82283cfaff2d4ed8b27efa81d7a4b2d1)
